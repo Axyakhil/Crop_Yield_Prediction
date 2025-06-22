@@ -1,6 +1,6 @@
 # Machine Learning based Crop Yield Prediction
 <p align="center">
-  <img src="https://github.com/NerellaDhakshitha/CropYieldPrediction/blob/main/Crop-Yield.png?raw=true">
+  <img src="https://github.com/Axyakhil/Crop_Yield_Prediction/blob/main/Crop-Yield.png?raw=true">
 </p>
 
 ## Dataset
